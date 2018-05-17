@@ -1,0 +1,66 @@
+.container-fluid {
+    background-color: black;
+    padding: 10px;
+}
+.container-fluid p {
+    color: white;
+    font-size: 20px;
+}
+.container-fluid input {
+    border-radius: 5px;
+    height: 30px;
+}
+.col-md-4 {
+    padding: 30px;
+    background-color: black;
+    border: 1px solid white;
+}
+.col-md-4 p{
+    font-weight: bold;
+    font-size: 16px;
+    margin-top: 10px;
+    border-bottom: 1px solid black;
+    color: white;
+}
+header {
+    position: fixed;
+    left: 0;
+    top: 0;
+    right: 0;
+    z-index: 1;
+}
+.container {
+    margin-top: 60px;
+}
+#infoPage {
+    margin-top: 60px;
+}
+
+.searchUl {
+    list-style-type: none;
+    padding-left: 15px;
+    margin: 0;
+    position: absolute;
+    z-index: 1;
+    width: 160px;
+}
+.searchLi {
+    padding-top: 10px;
+    background-color: rgb(178, 210, 211);
+    border-bottom: 1px solid white;
+    text-align: center;
+    font-size: 15px;
+    transition: all .3s ease-in-out ;
+    
+}
+.searchLi:hover {
+    background-color: rgb(234, 239, 240);
+    font-size: 16px;
+}
+.redirect{
+    transition: all .3s ease-in-out;
+}
+.redirect:hover {
+    color: lightblue;
+    
+}
