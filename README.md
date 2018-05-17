@@ -1,4 +1,4 @@
-Check out the project here: [TV shows](https://dule012.github.io/tv-shows-react.js/)
+Check out the project here: [TV shows](https://dule012.github.io/tv-shows-react_js/)
 
 ## Stack
 ### Language: 
