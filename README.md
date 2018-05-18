@@ -1,5 +1,6 @@
 Check out the project here: [TV shows](https://dule012.github.io/tv-shows-react_js/)
 
+It works just clone it and try :)
 ## Stack
 ### Language: 
 - HTML5 
